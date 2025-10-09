@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Nabin Damase</h1>
+<h1 align="center">Hi 👋, I'm Nabin Damase from nepal</h1>
 <h3 align="center">A passionate developer from Nepal</h3><br><br>
 
 
