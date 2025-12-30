@@ -43,9 +43,6 @@
 
 
 
-1
-
- 
 
 ## 👨‍💻 About Me
 - 🔭 Currently working on **AI & Web Projects**
