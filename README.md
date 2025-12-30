@@ -44,93 +44,12 @@
 
 
 1
-<h1 align="center">Hi 👋, I'm Nabim Damase</h1>
-<h3 align="center">AI & Web Developer from Nepal 🇳🇵</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nabimdamase&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
+ 
 
 ## 👨‍💻 About Me
 - 🔭 Currently working on **AI & Web Projects**
-- 🌱 Learning **MLOps, LLMOps & Advanced React**
-- 🎯 Goal: Become a **Top AI Engineer**
+- 🎯 Goal: Become a **Top AI Engineer and   Web Developer**
 - 💬 Ask me about **React, Python, Machine Learning**
-- 📫 Reach me at: **your-email@gmail.com**
+-
 
----
-
-## 🛠 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### Backend & Tools
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabimdamase&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabimdamase&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabimdamase&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nabimdamase&theme=onedark&row=1" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"></a>
-</p>
-
----
-
-## 🚀 Featured Projects
-- 🔹 Smart Kishan – AI based agriculture system  
-- 🔹 Disease Detection using ML  
-- 🔹 NPL Cricket Data Analytics App  
-
----
-
-⭐ **If you like my profile, give a star to my repositories!**
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
